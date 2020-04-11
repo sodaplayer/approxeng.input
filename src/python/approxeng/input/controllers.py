@@ -21,6 +21,8 @@ from approxeng.input.steamcontroller import SteamController
 # noinspection PyUnresolvedReferences
 from approxeng.input.switch import SwitchJoyConRight, SwitchJoyConLeft
 # noinspection PyUnresolvedReferences
+from approxeng.input.switchpro import WiredSwitchProController
+# noinspection PyUnresolvedReferences
 from approxeng.input.wii import WiiRemotePro
 # noinspection PyUnresolvedReferences
 from approxeng.input.wiimote import WiiMote
